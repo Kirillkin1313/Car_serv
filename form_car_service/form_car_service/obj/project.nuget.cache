@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GcmSSaCeNnY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KRomk\\OneDrive\\Рабочий стол\\проектик\\form_car_service\\form_car_service\\form_car_service.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KRomk\\.nuget\\packages\\oracle.manageddataaccess.core\\23.26.401\\oracle.manageddataaccess.core.23.26.401.nupkg.sha512",
+    "C:\\Users\\KRomk\\.nuget\\packages\\system.directoryservices.protocols\\8.0.2\\system.directoryservices.protocols.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

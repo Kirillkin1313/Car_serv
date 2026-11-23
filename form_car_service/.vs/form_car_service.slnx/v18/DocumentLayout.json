@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KRomk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\\form_car_service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10869A67-7F29-D9D7-E8EE-85BA63D51FCB}|form_car_service\\form_car_service.vbproj|c:\\users\\kromk\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\\form_car_service\\form_car_service\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10869A67-7F29-D9D7-E8EE-85BA63D51FCB}|form_car_service\\form_car_service.vbproj|solutionrelative:form_car_service\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10869A67-7F29-D9D7-E8EE-85BA63D51FCB}|form_car_service\\form_car_service.vbproj|c:\\users\\kromk\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\\form_car_service\\form_car_service\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10869A67-7F29-D9D7-E8EE-85BA63D51FCB}|form_car_service\\form_car_service.vbproj|solutionrelative:form_car_service\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KRomk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\\form_car_service\\form_car_service\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "form_car_service\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\KRomk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\\form_car_service\\form_car_service\\MainWindow.xaml",
+              "RelativeToolTip": "form_car_service\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-19T06:02:00.375Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\KRomk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\\form_car_service\\form_car_service\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "form_car_service\\MainWindow.xaml.vb",
+              "ToolTip": "C:\\Users\\KRomk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\\form_car_service\\form_car_service\\MainWindow.xaml.vb",
+              "RelativeToolTip": "form_car_service\\MainWindow.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-19T06:01:58.679Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
