@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("form_car_service"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1b30cb65616303355a3b378f9bfdfb2b5522eba"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58e86c9e37ebaded60ddae6525773127d61b1681"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("form_car_service"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("form_car_service"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
